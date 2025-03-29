@@ -23,6 +23,7 @@ I'm a Backend Developer with expertise in building scalable and efficient system
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=SmartMalphite&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="SmartMalphite's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmartMalphite&layout=compact&hide_border=true" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SmartMalphite&theme=github-compact)](https://github.com/SmartMalphite)
 
 ## 📫 How to reach me
 
